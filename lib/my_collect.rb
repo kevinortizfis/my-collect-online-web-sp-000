@@ -2,7 +2,8 @@ def my_collect(array)
   i = 0
   lang_array = []
   while i < array.length
-
+    lang_array
+  end
 end
 
 #my_collect
