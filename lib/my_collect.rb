@@ -5,6 +5,7 @@ def my_collect(array)
     lang_array << array[i].upcase
     i =+ 1
   end
+  lang_array
 end
 
 #my_collect
