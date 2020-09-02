@@ -5,7 +5,6 @@ def my_collect(array)
     lang_array << yield(array[i].upcase)
     i =+ 1
   end
-
 end
 
 #my_collect
